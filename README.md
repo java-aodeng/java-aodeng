@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on money
 - 📫 How to reach me: ...
 QQ交流群：756796932(话题围绕：技术等...)
-读书打卡：[https://weibo.com/aodeng520](https://weibo.com/aodeng520)
-旅游记录：https://weibo.com/iloveyou3000
+读书打卡：[aodeng520](https://weibo.com/aodeng520)
+旅游记录：[iloveyou3000](https://weibo.com/iloveyou3000)
