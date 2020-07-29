@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GOLANG
 - 👯 I’m looking to collaborate on money
 - 📫 How to reach me: ...
-QQ交流群：756796932(话题围绕：技术等...)
+QQ交流群：756796932
 微博：[iloveyou3000](https://weibo.com/iloveyou3000)
