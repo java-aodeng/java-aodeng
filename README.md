@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 QQ交流群：756796932
 微博：[iloveyou3000](https://weibo.com/iloveyou3000)
-快乐星球：[任意门](https://t.zsxq.com/nqvv7Yz)
+快乐星球：[飞船接送地址](https://t.zsxq.com/nqvv7Yz)
