@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GOLANG
 - 📫 How to reach me: ...
 QQ交流群：756796932
-微博：[地址](https://weibo.com/aodeng520)
-星球：[地址](https://t.zsxq.com/nqvv7Yz)
+[新浪微博](https://weibo.com/aodeng520)
+[知识星球](https://t.zsxq.com/nqvv7Yz)
