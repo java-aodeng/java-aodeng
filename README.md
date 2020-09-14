@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [新浪微博](https://weibo.com/aodeng520)
 [知识星球](https://t.zsxq.com/nqvv7Yz)
 [Github](https://github.com/java-aodeng)
-wx:uuid666
+微信:uuid666
