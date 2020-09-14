@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GOLANG
 - 📫 How to reach me: ...
 [QQ群:756796932](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932)
-[新浪微博](https://weibo.com/iloveyou3000)
+[新浪微博](https://weibo.com/aodeng520)
 [知识星球](https://t.zsxq.com/nqvv7Yz)
 [Github](https://github.com/java-aodeng)
 微信:uuid666
