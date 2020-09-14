@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 [知识星球](https://t.zsxq.com/nqvv7Yz)
 [Github](https://github.com/java-aodeng)
 微信:uuid666
+
+### Other
+
+~~若有其他好的想法欢迎 Issue me~~
+
+更新是不可能更新的，这辈子都不可能更新，只能逛逛github才能维持生活这样子![](https://wx3.sinaimg.cn/mw690/b13f6d6cgy1fc3a1kimfxj201v01xjr6.jpg)
+
+---
