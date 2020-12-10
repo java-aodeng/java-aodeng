@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 [Github](https://github.com/java-aodeng)
 [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932)
 [微博](https://weibo.com/iloveyou3000)
-[博客](http://ilovey.live)
