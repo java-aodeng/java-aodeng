@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋  How to reach me: ... [Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)
 
 <!--
@@ -15,6 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on JAVA
 - 🌱 I’m currently learning GOLANG
--->
 
 [![Saving's github stats](https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/java-aodeng)
+-->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&count_private=true&show_icons=true&hide_title=true" />
+
+## Hi there 👋
+
+- 🔭 I’m currently working on JAVA
+- 🌱 I’m currently learning GOLANG
+- 📫 How to reach me: ... 
+[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)
