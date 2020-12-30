@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 How to reach me: ...
+[Github](https://github.com/java-aodeng)
+[QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932)
+[微博](https://weibo.com/aodeng520)
 
 <!--
 **java-aodeng/java-aodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +21,3 @@ Here are some ideas to get you started:
 -->
 
 [![Saving's github stats](https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/java-aodeng)
-
-- 📫 How to reach me: ...
-[Github](https://github.com/java-aodeng)
-[QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932)
-[微博](https://weibo.com/aodeng520)
