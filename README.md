@@ -3,8 +3,6 @@
 <!--
 **java-aodeng/java-aodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Saving's github stats](https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/java-aodeng)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Saving's github stats](https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/java-aodeng)
+
 - 🔭 I’m currently working on JAVA
 - 🌱 I’m currently learning GOLANG
 - 📫 How to reach me: ...
