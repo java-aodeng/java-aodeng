@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 #### How to reach me : ...
 
-- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [博客](http://ilovey.live)-服务器挂了.暂时解析到微博
+- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [博客](http://ilovey.live)-服务器挂了,暂时解析到微博
