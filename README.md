@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&count_private=true&show_icons=true&hide_title=true" />-->
 
-<a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff" /></a>
+<a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 
 ## Hi there 👋 I'm 低调小熊猫
 
