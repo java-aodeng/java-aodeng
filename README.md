@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
 #### How to reach me : ...
 
-- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520) ![](https://komarev.com/ghpvc/?username=java-aodeng&color=dc143c)
+- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520) 
+
+![](https://komarev.com/ghpvc/?username=java-aodeng&color=blue)
