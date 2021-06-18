@@ -36,4 +36,33 @@ Hi there 👋 I'm 低调小熊猫
 
 #### How to reach me : ...
 
+<p>
+    <a href="https://github.com/java-aodeng">
+        <img alt="低调小熊猫's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+    </a>
+    <a href="https://weibo.com/aodeng520">
+        <img alt="低调小熊猫's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sinaweibo.svg"/>
+    </a>  
+    <a href="https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ">
+        <img alt="低调小熊猫's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+    </a>
+</p>
+
+<details>
+    <summary>
+        <b>More about me</b>
+    </summary>
+
+<p align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+</p>
+    
+<!--     
 - 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)✨![](https://komarev.com/ghpvc/?username=java-aodeng&color=blue)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ -->
