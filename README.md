@@ -48,6 +48,8 @@ Hi there 👋 I'm 低调小熊猫
     </a>
 </p>
 
+<br>
+
 <details>
     <summary>
         <b>More about me</b>
@@ -60,8 +62,25 @@ Hi there 👋 I'm 低调小熊猫
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-</p>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <br>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <br>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>       
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <br>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>       
+    <br>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="90" height="90"/>       
+    </p>
     
 <!--     
 - 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)✨![](https://komarev.com/ghpvc/?username=java-aodeng&color=blue)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
