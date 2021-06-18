@@ -79,7 +79,7 @@ Hi there 👋 I'm 低调小熊猫
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>       
     <br>
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="90" height="90"/>       
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="80" height="80"/>       
     </p>
     
 <!--     
