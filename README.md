@@ -50,11 +50,13 @@ Hi there 👋 I'm 低调小熊猫
 
 <details>
     <summary>
-        <b>More about me<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b>
+        <b>More about me</b>
     </summary>
 <br>
+
 接着奏乐，接着舞    
-<p>
+
+<p>    
     <img src="https://syimg.3dmgame.com/uploadimg/upload/image/20200714/20200714202945_91290.gif" width="200" height="200"/> 
 </p>    
     
@@ -77,5 +79,5 @@ Hi there 👋 I'm 低调小熊猫
     </p>
     
 <!--     
-- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)✨![](https://komarev.com/ghpvc/?username=java-aodeng&color=blue)
+- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)✨![](https://komarev.com/ghpvc/?username=java-aodeng&color=blue)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  -->
