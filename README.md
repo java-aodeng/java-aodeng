@@ -44,7 +44,7 @@ Hi there 👋 I'm 低调小熊猫
         <img alt="低调小熊猫's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sinaweibo.svg"/>
     </a>  
     <a href="https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ">
-        <img alt="低调小熊猫's Telegram" align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+        <img alt="低调小熊猫's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
     </a>
 </p>
 
