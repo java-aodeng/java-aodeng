@@ -48,8 +48,6 @@ Hi there 👋 I'm 低调小熊猫
     </a>
 </p>
 
-<br>
-
 <details>
     <summary>
         <b>More about me</b>
@@ -66,18 +64,9 @@ Hi there 👋 I'm 低调小熊猫
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
     <br>
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <br>
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>       
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <br>
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>    
-    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>       
+    <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>         
     <br>
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="80" height="80"/>       
     </p>
