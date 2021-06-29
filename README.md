@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 
 
-- 💬 Ask me about ...
+- 📫 How to reach me: ...
 
 <p>
     <a href="https://github.com/java-aodeng">
