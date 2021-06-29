@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 
-Hi there 👋 
+### Hi there 👋 
 
-How to reach me : ...
+- 💬 Ask me about ...
 
 <p>
     <a href="https://github.com/java-aodeng">
