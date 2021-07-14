@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang and Vue
 - 💬 How to reach me ...
 
 <p>
