@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 
 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Golang
 - 💬 How to reach me ...
 
 <p>
