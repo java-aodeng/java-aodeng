@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     
 
 
-<details>
+<details align="right">
     <summary>
         <b>More about me</b>
     </summary>
