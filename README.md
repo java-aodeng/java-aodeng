@@ -59,11 +59,13 @@ Here are some ideas to get you started:
     </summary>
 <br>
 
+<div align="left">
 接着奏乐，接着舞    
 
 <p>    
     <img src="https://syimg.3dmgame.com/uploadimg/upload/image/20200714/20200714202945_91290.gif" width="200" height="200"/> 
-</p>    
+</p> 
+</div>   
     
 <p align="center">
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
