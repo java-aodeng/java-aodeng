@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 </h1>
 
 <a target="_blank">
-  <img align="left" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
-  <a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
+  <a href="https://github.com/java-aodeng"><img align="left" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 </a>
 
 - :computer: I’m currently working on **Java**
