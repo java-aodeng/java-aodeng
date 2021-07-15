@@ -27,13 +27,28 @@ Here are some ideas to get you started:
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&count_private=true&show_icons=true&hide_title=true" />-->
 
-<a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 
-### Hi there 👋 I'm 低调小熊猫
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 
+  <br/>
+  I am <a target="_blank" href="https://ozanisgor.netlify.app/">低调小熊猫</a>
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Golang and Vue
-- 💬 How to reach me ...
+  <a target="_blank">
+    <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Hi.gif" width="40px" />
+  </a>
+</h1>
+<br/>
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
+  <a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
+</a>
+
+<br/>
+
+- :computer: I’m currently working on **Java**
+- :pushpin: I’m currently learning  <img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"> and <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+### :mag_right: Find me:
 
 <p>
     <a href="https://github.com/java-aodeng">
