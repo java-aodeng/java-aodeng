@@ -37,14 +37,11 @@ Here are some ideas to get you started:
     <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Hi.gif" width="40px" />
   </a>
 </h1>
-<br/>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
+  <img align="left" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
   <a href="https://github.com/java-aodeng"><img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 </a>
-
-<br/>
 
 - :computer: I’m currently working on **Java**
 - :pushpin: I’m currently learning  <img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"> and <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
