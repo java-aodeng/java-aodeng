@@ -1,33 +1,3 @@
-<!-- <div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
-</div> -->
-<!--
-### Hi there 👋  How to reach me: ... [Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)
-
-<!--
-**java-aodeng/java-aodeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on JAVA
-- 🌱 I’m currently learning GOLANG
-
-[![Saving's github stats](https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/java-aodeng)
--->
-
-
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&count_private=true&show_icons=true&hide_title=true" />-->
-
-
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 
   <br/>
@@ -84,8 +54,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>         
     <br>
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="80" height="80"/>       
-    </p>
+</p>
     
-<!--     
-- 📫[Github](https://github.com/java-aodeng) [QQ群](http://qm.qq.com/cgi-bin/qm/qr?k=YDcZoqa_Tsu2H-y-35vfFkBYYNoioYvI&group_code=756796932) [微博](https://weibo.com/aodeng520)✨![](https://komarev.com/ghpvc/?username=java-aodeng&color=blue)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- -->
