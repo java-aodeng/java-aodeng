@@ -25,6 +25,7 @@
 [<img alt="低调小熊猫's Wechat" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/4e8eb6a89b36c7f06a5d617214984768.jpg)
 [<img alt="低调小熊猫's 抖音" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/e73fe75cb0ee5c66c30f6c954acadf46.jpg)
 [<img alt="低调小熊猫's QQ" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tencentqq.svg"/>](https://jq.qq.com/?_wv=1027&k=574chhz)
+[<img alt="低调小熊猫's email" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg"/>](java@aodeng.cc)
 
 <details align="right">
     <summary>
