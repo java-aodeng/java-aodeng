@@ -22,7 +22,8 @@
 [<img alt="低调小熊猫's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ)
 [<img alt="低调小熊猫's Blog" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blogger.svg"/>](https://weibo.com/iloveyou3000)
 [<img alt="低调小熊猫's Twitter" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"/>](https://twitter.com/java_aodeng)
-   
+[<img alt="低调小熊猫's Wechat" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/4e8eb6a89b36c7f06a5d617214984768.jpg)
+[<img alt="低调小熊猫's 抖音" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/e73fe75cb0ee5c66c30f6c954acadf46.jpg)
 
 <details align="right">
     <summary>
