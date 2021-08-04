@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 ### :mag_right: Find me:
 
-<img alt="低调小熊猫's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/java-aodeng) -->
+[<img alt="低调小熊猫's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/java-aodeng)
 [<img alt="低调小熊猫's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ)
 [<img alt="低调小熊猫's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sinaweibo.svg"/>](https://weibo.com/aodeng520)
-[<img alt="低调小熊猫's Blog" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blogger.svg"/>](https://weibo.com/iloveyou3000) -->
+[<img alt="低调小熊猫's Blog" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blogger.svg"/>](https://weibo.com/iloveyou3000)
 [<img alt="低调小熊猫's Twitter" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"/>](https://twitter.com/java_aodeng)
-[<img alt="低调小熊猫's Wechat" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210716230222.jpg)
-[<img alt="低调小熊猫's 抖音" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/e73fe75cb0ee5c66c30f6c954acadf46.jpg)
+<!-- [<img alt="低调小熊猫's Wechat" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210716230222.jpg)
+[<img alt="低调小熊猫's 抖音" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg"/>](http://ddxxm-aodeng.test.upcdn.net/image/e73fe75cb0ee5c66c30f6c954acadf46.jpg) -->
 
 <details align="right">
     <summary>
