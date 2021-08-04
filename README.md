@@ -50,8 +50,7 @@ Here are some ideas to get you started:
 <div align="left">
 <!-- 接着奏乐，接着舞     -->
 
-代理翻墙：一个月7元，秒开YouTube 1080蓝光 
-  
+代理翻墙：低至7.2元/月，秒开YouTube 1080蓝光   
 邮箱联系 java@aodeng.cc
   
 <!-- <p>    
