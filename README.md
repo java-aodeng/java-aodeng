@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p> 
 </div>   
     
-<p align="center">
+<!-- <p align="center">
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
@@ -73,5 +73,5 @@ Here are some ideas to get you started:
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/>         
     <br>
     <img align="center" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="80" height="80"/>       
-</p>
+</p> -->
     
