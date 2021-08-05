@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ### :mag_right: Find me:
 
 [<img alt="低调小熊猫's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ)
-[<img alt="低调小熊猫's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sinaweibo.svg"/>](https://weibo.com/aodeng520)
+[<img alt="低调小熊猫's Blog" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blogger.svg"/>](https://weibo.com/iloveyou3000)
+[<img alt="低调小熊猫's Weibo" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sinaweibo.svg"/>](https://weibo.com/aodeng520)
 [<img alt="低调小熊猫's Twitter" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"/>](https://twitter.com/java_aodeng)
 
 <details align="right">
