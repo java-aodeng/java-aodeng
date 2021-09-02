@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   I am <a target="_blank" href="https://github.com/java-aodeng">低调小熊猫</a>
 
   <a target="_blank">
-      <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Hi.gif" width="40px" />    
+      <img src="https://uss.ilovey.live/github/image.gif" width="40px" />    
   </a>
 </h1>
 
