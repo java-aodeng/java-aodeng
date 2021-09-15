@@ -38,15 +38,17 @@ Here are some ideas to get you started:
 [<img alt="低调小熊猫's Telegram" align="left" src="https://img.shields.io/badge/telegram-%E4%BD%8E%E8%B0%83%E5%B0%8F%E7%86%8A%E7%8C%AB--%E5%AE%98%E6%96%B9%E9%83%A8%E8%90%BD-orange.svg"/>](https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ)
 
 
-<details align="right">
+<!-- <details align="right">
     <summary>
         <b>More about me</b>
-    </summary>
+    </summary> -->
 <br>
 
 <div align="left">
 
 代理翻墙：低至7.2元/月，秒开YouTube 1080蓝光   
-  
+
+代理服务器：三年轻量云服务器最低只需250元 最高可节省12579元 详情：https://ilovey.live/2021/09/14/ad001/
+
 邮箱联系 java@aodeng.cc
     
