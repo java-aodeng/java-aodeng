@@ -42,6 +42,4 @@ Here are some ideas to get you started:
 - 科学上网：低至7.2元/月，秒开YouTube 1080蓝光   
 
 - 腾讯云服务器代理特价：轻量云服务器三年只需170元 最高可节省12579元 详情：https://ilovey.live/2021/09/14/ad001/
-
-- 邮箱联系 java@aodeng.cc
     
