@@ -23,10 +23,14 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
+<div style="padding: 10px 0;">
 <a target="_blank">
   <a href="https://github.com/java-aodeng"><img align="right" height="200" width="300" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
   <a href="https://github.com/java-aodeng"><img align="left" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 </a>
+</div>
+
+<div style="padding: 0px;">
 
 - :computer: I’m currently working on **Java**
 - :pushpin: I’m currently learning  <img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"> and <img height="20" src="https://uss.ilovey.live/github/vue.png">
@@ -51,3 +55,4 @@ Here are some ideas to get you started:
 - 腾讯云服务器代理特价：轻量云服务器三年只需170元 最高可节省12579元 详情：https://ilovey.live/2021/09/14/ad001/
 
 - 邮箱联系：java@aodeng.cc  
+  </div>
