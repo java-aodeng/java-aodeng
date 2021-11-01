@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <a target="_blank">
   <a href="https://github.com/java-aodeng"><img align="right" height="200" width="300" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
-  <a href="https://github.com/java-aodeng"><img align="left" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
+  <a href="https://github.com/java-aodeng"><img align="left" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 </a>
 
 - :computer: I’m currently working on **Java**
