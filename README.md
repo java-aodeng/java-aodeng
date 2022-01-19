@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 - :computer: I’m currently working on **Java**
-- :pushpin: I’m currently learning  **GoLang** and **Vue**
+- :pushpin: I’m currently learning  **Go** and **Vue**
 
 ### :mag_right: Find me:
 
