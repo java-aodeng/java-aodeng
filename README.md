@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 - :computer: I’m currently working on **Java**
-- :pushpin: I’m currently learning  <img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"> and <img height="20" src="https://uss.ilovey.live/github/vue.png">
+- :pushpin: I’m currently learning  **GoLang** and **Vue**
 
 ### :mag_right: Find me:
 
