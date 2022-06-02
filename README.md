@@ -1,18 +1,3 @@
-<!-- 
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 
   <br/>
@@ -22,12 +7,9 @@ Here are some ideas to get you started:
       <img src="https://uss.ilovey.live/github/Hi.gif" width="5%" />    
   </a>
 </h1>
-
-
-<a target="_blank">  
-    <a href="https://github.com/java-aodeng"><img align="right"  width="47%" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
-    <a href="https://github.com/java-aodeng"><img align="left"   width="50%" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
-</a>
+ 
+<a href="https://github.com/java-aodeng"><img align="right"  width="47%" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
+<a href="https://github.com/java-aodeng"><img align="left"   width="50%" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 
 <details align="left" open>
     <summary>
