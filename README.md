@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 
 <a target="_blank">
-  <a href="https://github.com/java-aodeng"><img align="right"  width="345" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
-  <a href="https://github.com/java-aodeng"><img align="left"  height-"90%" width="470" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
+  <div style="height:218px">
+    <a href="https://github.com/java-aodeng"><img align="right"  width="345" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
+    <a href="https://github.com/java-aodeng"><img align="left"   width="470" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
+  </div>
 </a>
 
-
-- :computer: I’m currently working on **Java**
-- :pushpin: I’m currently learning  **Go** and **Vue**
 
 ### :mag_right: Find me:
 
