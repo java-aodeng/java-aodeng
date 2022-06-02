@@ -29,10 +29,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/java-aodeng"><img align="left"  width="470" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 </a>
 
-
-### Hi there 👋
-
-Here are some ideas to get you started:
+Hi there
 - :computer: I’m currently working on **Java**
 - :pushpin: I’m currently learning  **Go** and **Vue**
 
