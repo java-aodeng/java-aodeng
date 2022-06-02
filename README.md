@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 </a>
 
 
+### Hi there 👋
 
+Here are some ideas to get you started:
 - :computer: I’m currently working on **Java**
 - :pushpin: I’m currently learning  **Go** and **Vue**
 
