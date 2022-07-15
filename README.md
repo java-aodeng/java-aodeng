@@ -7,9 +7,38 @@
       <img src="https://uss.ilovey.live/github/Hi.gif" width="5%" />    
   </a>
 </h1>
- 
-<a href="https://github.com/java-aodeng"><img align="right"  width="47%" alt="GIF" src="https://uss.ilovey.live/github/image.gif" /></a>
-<a href="https://github.com/java-aodeng"><img align="left"   width="50%" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
+
+<!-- top left -->
+<div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
+</div>
+
+<!-- first row -->
+<p align="center">
+<a href="https://github.com/java-aodeng">
+<img src="https://komarev.com/ghpvc/?username=java-aodeng">
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Djava-aodeng&longCache=true">
+</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img  width="340" height="214"  src="https://uss.ilovey.live/github/image.gif" />
+
+### 🏆 Github Status
+<a href="">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=java-aodeng&column=7&theme=onedark"/>
+    </p>
+</a>
+
+<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
+<a align="center" href="">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-aodeng&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+
+<!--<a href="https://github.com/java-aodeng" align="center" ><img  width="60" height="60"  src="https://uss.ilovey.live/github/image.gif" />
+<img align="right"   width="50%" src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" /></a>
 
 <details align="left" open>
     <summary>
@@ -17,14 +46,18 @@
     </summary>
 <br>
 
-<div align="left">
+<div align="">
 
 - :computer: I’m currently working on **Java**
 - :pushpin: I’m currently learning  **Go** and **Vue**
-
-### :mag_right: Find me:
-
-[<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"/>](https://twitter.com/java_aodeng)
-[<img align="left" src="https://img.shields.io/badge/chat-%E4%BD%8E%E8%B0%83%E5%B0%8F%E7%86%8A%E7%8C%ABQQ%E7%BE%A4-yellow.svg"/>](https://jq.qq.com/?_wv=1027&k=574chhz)
-[<img align="left" src="https://img.shields.io/badge/telegram-%E4%BD%8E%E8%B0%83%E5%B0%8F%E7%86%8A%E7%8C%AB--%E5%AE%98%E6%96%B9%E9%83%A8%E8%90%BD-orange.svg"/>](https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ) 科学上网：低至7.5元/月，秒开YouTube 邮箱联系：java@aodeng.cc  
 </details>
+-->
+
+### :mag_right: ☕ Get In Touch
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/java-aodeng)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/java_aodeng)
+[<img  src="https://img.shields.io/badge/chat-%E4%BD%8E%E8%B0%83%E5%B0%8F%E7%86%8A%E7%8C%ABQQ%E7%BE%A4-yellow.svg"/>](https://jq.qq.com/?_wv=1027&k=574chhz)
+[<img  src="https://img.shields.io/badge/telegram-%E4%BD%8E%E8%B0%83%E5%B0%8F%E7%86%8A%E7%8C%AB--%E5%AE%98%E6%96%B9%E9%83%A8%E8%90%BD-orange.svg"/>](https://t.me/joinchat/LSsyBxVKLGEkF5MtIhg6TQ)
+[![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://ilovey.live/)
+[![联系Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](java@aodeng.ccm)
+
