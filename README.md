@@ -26,15 +26,15 @@
 ### 🏆 Github Status
 <a href="https://github.com/java-aodeng">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=java-aodeng&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=java-aodeng&column=7"/>
     </p>
 </a>
 
 <!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
 <a align="center" href="https://github.com/java-aodeng">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-aodeng&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=java-aodeng&show_icons=true" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=java-aodeng&layout=compact" alt="languages" height="165">
 </p>
 
 <!--<a href="https://github.com/java-aodeng" align="center" ><img  width="60" height="60"  src="https://uss.ilovey.live/github/image.gif" />
