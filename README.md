@@ -20,5 +20,5 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/java-aodeng)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/java_aodeng)
 [![Blog](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](https://ilovey.live/)
-[![联系Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](java@aodeng.ccm)
+[![联系Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](java@aodeng.cc)
 
